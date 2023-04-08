@@ -1,0 +1,39 @@
+[
+    {
+        "id":1,
+        "image1":"./slider/s10.png",
+        "image2":"./slider/s9.png",
+        "image3":"./slider/s10.png",
+        "image4":"./slider/s3.png",
+        "position":"Sale"
+        
+    },
+    {
+        "id":2,
+        "image1":"./slider/s1.png",
+        "image2":"./slider/s2.png",
+        "image3":"./slider/s1.png",
+        "image4":"./slider/s2.png",
+        "position":"New"
+    },
+    {
+        "id":3,
+        "image1":"./slider/s10.png",
+        "image2":"./slider/s9.png",
+        "image3":"./slider/s10.png",
+        "image4":"./slider/s3.png",
+        "position":"Sale"
+        
+    },
+    {
+        
+            "id":4,
+            "image1":"./slider/s4.png",
+            "image2":"./slider/s5.png",
+            "image3":"./slider/s6.png",
+            "image4":"./slider/S8.png",
+            "position":"New"
+            
+        
+    }
+]
